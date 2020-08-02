@@ -1,7 +1,7 @@
 # Hackintosh EliteBook Folio 9470m
 <p align="justify" > 
 If you are a windows user and require macOS to learn XCode, then you can transform your windows machine into the Hackintosh machine. Remember, this tutorial is for educational purpose. I will be not responsible for any damage done to your device while installing macOS. Do at your own risk. This tutorial is only for Hp EliteBook Folio 9470m, running BIOS version F.73.
-<br>There are lots of videos on how to installing macOS on a device. So, instead of installation, I will be guiding you with the correct BIOS setting before installation, and share my EFI files. Back up your important files before starting. Enjoy.!
+<br>There are lots of videos on how to installing macOS on a device. So, instead of installation, I will be guiding you with the correct BIOS setting before installation, and share my EFI files. Back up your important files before starting. Enjoy.!(In EFI folder, then In clover folder, there is a UEFI driver missing, without that MacOS installer won't boot. It'll be uploaded soon.)
 </p>
 <p align="center"><img src="images/screen_shot.png"></p>
 
@@ -25,7 +25,7 @@ If you are a windows user and require macOS to learn XCode, then you can transfo
 ## Things that do not works:
 <img align="right" src="images/IMG_1404.png" height="250">
 <p align="justify" >
-So far everything is working smoothly, except the Bluetooth. There are no drivers for the Intel Wifi card. So, I replaced my Intel card with Atheros Qualcomm AR5B22. This card is also available for different brand laptops. For HP laptop, buy the card with a black label on it. A picture of my WiFi card is given on your right.
+So far everything is working smoothly, except the Bluetooth. There are no drivers for the Intel Wifi card. So, I replaced my Intel card with Atheros Qualcomm AR5B22. This card is also available for different brand laptops. For HP laptop, buy the card with a black label on it. A picture of my WiFi card is given on your right. You can use Android USB tethering an excellent way to use internet on MacOS without any wifi card change. Android USB Tethering driver will be available soon. Stay tuned.
 </p>
 
 ## Special Thanks To:
